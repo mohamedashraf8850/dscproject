@@ -1,0 +1,79 @@
+//String , Number , Bool , Lists
+{
+	"Name"     : "Muhammad",
+	"Id"   	   : 12345789,
+	"Status"   : true,
+	"Location"    : 121.47
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Array
+[
+{
+	"ProductId"   : "5d9egy9r3s",
+	"ProductName" : "NokiaA512",
+	"ProductBrand": "Nokia",
+	"ProductPrice": 117.0,
+	"UnitPrice"	  : "$"
+},
+{
+	"ProductId"   : "1e9w4fte7g",
+	"ProductName" : "NokiaA519",
+	"ProductBrand": "Nokia",
+	"ProductPrice": 120.0,
+	"UnitPrice"	  : "$"
+}
+]
+
+
+
+
+
+
+
+
+
+
+//Mix
+{
+	"Status": 200,
+	"Body": [
+		{
+			"Name": "Muhammad",
+			"Age": 21,
+			"Address": {
+				"STName": "Elsades ST",
+				"City": "Giza",
+				"Country": "Egypt"
+			}
+		},
+		{
+			"Name": "Ahmed",
+			"Age": 15,
+			"Address": {
+				"STName": "Gamel ST",
+				"City": "Cairo",
+				"Country": "Egypt"
+			}
+		}
+	]
+}
